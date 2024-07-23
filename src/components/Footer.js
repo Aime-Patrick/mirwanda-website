@@ -90,7 +90,7 @@ function Footer() {
     <footer className='py-3'>
       <div className='row'>
         <div className='col-12'>
-          <p className='text-center text-white mb-0'>&copy; {new Date().getFullYear()}, Powered by MPI</p>
+          <p className='text-center text-white mb-0'>&copy; {new Date().getFullYear()}, Powered by Aime Patrick</p>
         </div>
       </div>
     </footer>
